@@ -1,0 +1,9 @@
+$color: #fff;
+$colorless: #666666;
+
+body {
+    background-color: $color;
+    a {
+        background-color: $colorless;
+    }
+}
